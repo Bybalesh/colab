@@ -1,10 +1,7 @@
 
 1qa
 2qa
-https://jazz.sberbank.ru/sber-igtno2?psw=OBEPHwcRDRlaAQgJWAUaClULFQ
-4qa
-5qa
-6qa
+
 
 88 ms waiting;
 5 минуты 54 секунд build duration;
